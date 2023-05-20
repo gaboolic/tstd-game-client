@@ -41,15 +41,15 @@ public class MainTankGanxingbaWork {
 
     public static void main(String[] args) throws IOException {
         int initMapId = 0;
-        String usernameAndPasswordStr = "wp47810 198410\n" +
-                "wp47812 198410\n" +
-                "wp47813 198410\n" +
-                "wp47809 198410";
+        String usernameAndPasswordStr = "wp47810 234567\n" +
+                "wp47812 234567\n" +
+                "wp47813 234567\n" +
+                "wp47809 234567";
 //115088 开始动作-4孤有甘兴霸-孙权
-//        String usernameAndPasswordStr = "wp27166 198410\n" +
-//                "wp27167 198410\n" +
-//                "wp39259 198410\n" +
-//                "wp114018 556688\n"
+//        String usernameAndPasswordStr = "wp27166 \n" +
+//                "wp27167 \n" +
+//                "wp39259 \n" +
+//                "wp114018 \n"
 //                ;
 
         List<GameClient> bigGameClientList = new ArrayList<>();

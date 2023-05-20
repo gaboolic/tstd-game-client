@@ -15,7 +15,7 @@ public class ManTankCatchPet {
     public static void main(String[] args) throws IOException {
         final GameClient gameClient = new GameClient();
         gameClient.setUsername("WP00114018");
-        gameClient.setPassword("556688");
+        gameClient.setPassword("23467");
         gameClient.init();
 
         try {

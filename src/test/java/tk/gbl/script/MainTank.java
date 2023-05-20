@@ -15,7 +15,7 @@ public class MainTank {
         final GameClient gameClient = new GameClient();
         gameClient.setIndex(3);
         gameClient.setUsername("47813");
-        gameClient.setPassword("198410");
+        gameClient.setPassword("234567");
         gameClient.setTeamLeaderId(0);
         gameClient.init();
 

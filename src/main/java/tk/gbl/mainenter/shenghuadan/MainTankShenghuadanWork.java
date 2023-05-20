@@ -35,10 +35,10 @@ public class MainTankShenghuadanWork {
 
     public static void main(String[] args) throws IOException {
         int initMapId = 0;
-        String usernameAndPasswordStr = "wp39260 198410\n" +
-                "wp39259 198410\n" +
-                "wp27166 198410\n" +
-                "wp27167 198410\n";
+        String usernameAndPasswordStr = "wp39260 234567\n" +
+                "wp39259 234567\n" +
+                "wp27166 234567\n" +
+                "wp27167 234567\n";
         List<GameClient> bigGameClientList = new ArrayList<>();
         gameTeam.setGameClientList(bigGameClientList);
         String[] usernameAndPasswords = usernameAndPasswordStr.split("\n");

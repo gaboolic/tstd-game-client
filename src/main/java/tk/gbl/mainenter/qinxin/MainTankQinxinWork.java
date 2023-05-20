@@ -47,7 +47,7 @@ public class MainTankQinxinWork {
             public void run() {
                 final GameClient gameClient = new GameClient();
                 gameClient.setUsername("WP00114018");
-                gameClient.setPassword("556688");
+                gameClient.setPassword("");
                 gameClient.setFileOutput(false);
                 gameClient.init();
 
@@ -94,10 +94,10 @@ public class MainTankQinxinWork {
         int initMapId = 0;
 //        int initMapId = 0;
 
-        String usernameAndPasswordStr = "wp47810 198410\n" +
-                "wp47812 198410\n" +
-                "wp47813 198410\n" +
-                "wp47809 198410";
+        String usernameAndPasswordStr = "wp47810 234567\n" +
+                "wp47812 234567\n" +
+                "wp47813 234567\n" +
+                "wp47809 234567";
         List<GameClient> bigGameClientList = new ArrayList<>();
         gameTeam.setGameClientList(bigGameClientList);
         String[] usernameAndPasswords = usernameAndPasswordStr.split("\n");

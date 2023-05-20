@@ -16,7 +16,7 @@ import java.util.List;
 public class MoveFarTest {
     public static void main(String[] args){
         String username = "wp27166,wp27167";
-        String password = "198410,198410";
+        String password = "234567,234567";
         String[] usernames = username.split(",");
         String[] passwords = password.split(",");
 

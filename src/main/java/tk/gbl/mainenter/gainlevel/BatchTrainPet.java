@@ -33,10 +33,10 @@ public class BatchTrainPet {
 
     public static void main(String[] args) {
         //捉宠 练级 交易
-        String usernameAndPasswordStr = "wp42095 198410\n" +
-                "wp41570 198410\n" +
-                "wp22054 198410\n" +
-                "wp22055 198410\n";
+        String usernameAndPasswordStr = "wp42095 234567\n" +
+                "wp41570 234567\n" +
+                "wp22054 234567\n" +
+                "wp22055 234567\n";
         int npcId = 15322;
         int initMapId = 0;
         GameClient teamLeader = new GameClient();
@@ -49,7 +49,7 @@ public class BatchTrainPet {
         teamLeader.getGameConfig().setNotFightReconnect(true);
         teamLeader.getGameConfig().setQingliu(true);
         teamLeader.setUsername("wp42094");
-        teamLeader.setPassword("198410");
+        teamLeader.setPassword("234567");
         teamLeader.setInitMapId(initMapId);
         teamLeader.init();
         teamLeader.setTeamLeaderId(teamLeader.getUserId());

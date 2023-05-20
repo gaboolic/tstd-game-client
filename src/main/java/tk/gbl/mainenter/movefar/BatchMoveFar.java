@@ -24,7 +24,7 @@ public class BatchMoveFar {
         //594     148
         int serverIndex = 1;
         String username = "wp27166,wp27167";
-        String password = "198410,198410";
+        String password = "234567,234567";
 
 //        int serverIndex = 2;
 //        String username = "WP86601,WP86602,WP86603";

@@ -20,7 +20,7 @@ public class AnswerQuestionMainTank {
         });
 
         //wp115557,123456;wp115558,123456
-        String usernameAndP = "wp114022 556688";
+        String usernameAndP = "wp114022 123456";
         String username = usernameAndP.split(" ")[0];
         String password = usernameAndP.split(" ")[1];
 

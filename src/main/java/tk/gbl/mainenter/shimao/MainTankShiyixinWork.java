@@ -40,10 +40,10 @@ public class MainTankShiyixinWork {
 
     public static void main(String[] args) throws IOException {
         int initMapId = 0;
-//        String usernameAndPasswordStr = "wp47810-198410;" +
-//                "wp47812-198410;" +
-//                "wp47813-198410;" +
-//                "wp47809-198410;";
+//        String usernameAndPasswordStr = "wp47810-234567;" +
+//                "wp47812-234567;" +
+//                "wp47813-234567;" +
+//                "wp47809-234567;";
 //        int serverIndex = 1;
 
         String usernameAndPasswordStr = "wp15662-111111;" +

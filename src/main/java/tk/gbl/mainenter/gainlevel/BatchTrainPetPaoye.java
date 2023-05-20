@@ -36,11 +36,11 @@ public class BatchTrainPetPaoye {
 
     public static void main(String[] args) {
         //捉宠 练级 交易
-//        String teamLeaderUsernameAndPassword = "wp42094 198410";
-//        String usernameAndPasswordStr = "wp42095 198410\n" +
-//                "wp41570 198410\n" +
-//                "wp22054 198410\n" +
-//                "wp22055 198410\n";
+//        String teamLeaderUsernameAndPassword = "wp42094 234567";
+//        String usernameAndPasswordStr = "wp42095 234567\n" +
+//                "wp41570 234567\n" +
+//                "wp22054 234567\n" +
+//                "wp22055 234567\n";
 
 
 //        String teamLeaderUsernameAndPassword = "103911 6355809";

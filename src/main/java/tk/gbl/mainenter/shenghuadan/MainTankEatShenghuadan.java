@@ -22,7 +22,7 @@ public class MainTankEatShenghuadan {
         int npcId = 45299;//狂赵云
         int itemId = 46063;//升华胆
         String storehouseAccount = "WP00113312";//放宠物的号
-        String storehousePassword = "556688";
+        String storehousePassword = "234567";
         String password = "123456";
         GameClient storeGameClient = new GameClient();
         storeGameClient.setIndex(1);

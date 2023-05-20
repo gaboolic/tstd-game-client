@@ -8,8 +8,8 @@ package tk.gbl.constant;
  */
 public class ProcessConstant {
     public static int cacheMaxLength = 8092 ;
-    public static String password = "198410";
+    public static String password = "234567";
     public static String p123456 = "123456";
-    public static String p55 = "556688";
+    public static String p55 = "";
     public static String p112233 = "112233";
 }

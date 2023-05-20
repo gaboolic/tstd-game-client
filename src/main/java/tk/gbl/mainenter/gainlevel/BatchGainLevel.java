@@ -43,10 +43,10 @@ public class BatchGainLevel {
 //        String password = ProcessConstant.password;
 
 //        String username = "WP00114018,WP41590";
-//        String password = "556688,198410";
+//        String password = "";
 
 //        String username = "WP27167,WP27166";
-//        String password = "198410,198410";
+//        String password = "";
 
 //        String username = "WP86601,WP86602";
 //        String password = "137474688a,137474688a";
